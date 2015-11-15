@@ -1,0 +1,23 @@
+{
+  "name": "hackrush.github.io",
+  "homepage": "https://github.com/denzelwamburu/hackrush.github.io",
+  "authors": [
+    "Denzel Wamburu <denzjoseph@gmail.com>"
+  ],
+  "description": "Site for HackRush",
+  "main": "index.htmml",
+  "moduleType": [],
+  "keywords": [
+    "HackRush",
+    "dekuthackathon",
+    "dehub"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
