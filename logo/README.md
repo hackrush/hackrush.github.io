@@ -1,4 +1,4 @@
 ## HackRush Logo
 
 Proposed Logo Design for HackRush
-- ![](logo/logo1.png?raw=true)
+- ![](https://github.com/denzelwamburu/hackrush.github.io/blob/landed/logo/logo1.png)
