@@ -1,8 +1,8 @@
 {
   "name": "hackrush.github.io",
-  "homepage": "https://github.com/denzelwamburu/hackrush.github.io",
+  "homepage": "https://github.com/hackrush/hackrush.github.io",
   "authors": [
-    "Denzel Wamburu <denzjoseph@gmail.com>"
+    "HackRush <denzjoseph@gmail.com>"
   ],
   "description": "Site for HackRush",
   "main": "index.htmml",
